@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1558120064 source:c:\users\alina\desktop\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"linkedlist.h"
+
+1558094403 c:\users\alina\desktop\p1\list.h
+
+1558095650 source:c:\users\alina\desktop\p1\lista inlantuita.c
+
+1558095715 c:\users\alina\desktop\p1\linkedlist.h
+
+1558120150 source:c:\users\alina\desktop\p1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"linkedlist.h"
+
+1558252592 source:c:\users\alina\desktop\proiect pa 2\p1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"linkedlist.h"
+
+1558252610 c:\users\alina\desktop\proiect pa 2\p1\linkedlist.h
+
+1558252722 source:c:\users\alina\desktop\proiect pa 2\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	<time.h>
+	"linkedlist.h"
+
+1558264361 source:c:\users\alina\desktop\proiect pa 2\p1\sourcecode\p1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"linkedlist.h"
+
+1558264361 c:\users\alina\desktop\proiect pa 2\p1\sourcecode\p1\linkedlist.h
+

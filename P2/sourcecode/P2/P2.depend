@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1558194867 source:c:\users\alina\desktop\p2\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"graph.h"
+
+1558191708 c:\users\alina\desktop\p2\graph.h
+
+1558192104 source:c:\users\alina\desktop\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1558262700 source:c:\users\alina\desktop\proiect pa 2\p2\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"graph.h"
+
+1558262700 c:\users\alina\desktop\proiect pa 2\p2\graph.h
+
+1558261793 source:c:\users\alina\desktop\proiect pa 2\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1558262904 source:c:\users\alina\desktop\p2\sourcecode\p2\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"graph.h"
+
+1558262918 c:\users\alina\desktop\p2\sourcecode\p2\graph.h
+
+1558266183 source:c:\users\alina\desktop\p2\sourcecode\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
